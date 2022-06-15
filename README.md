@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Adam Ridhwan
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning Java, SQL and React
-- 💞️ I’m looking to collaborate on projects
+- 💞️ I’m looking to collaborate on projects and internships
 - 📫 How to reach me ...
   - adamridhwan.1@gmail.com OR ahamzah@bu.edu
 
