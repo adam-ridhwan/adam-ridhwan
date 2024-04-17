@@ -20,9 +20,7 @@
 [<img align="left" alt="HTML" width="25px" src="https://cdn.simpleicons.org/html5/E34F26" style="padding-right:10px;" />][html-link]
 [<img align="left" alt="CSS" width="25px" src="https://cdn.simpleicons.org/css3/1572B6" style="padding-right:10px;" />][css-link]
 [<img align="left" alt="Prisma" width="25px" src="https://cdn.simpleicons.org/prisma/0000000/ffffff" style="padding-right:10px;" />][prisma-link]
-[<img align="left" alt="Vercel" width="25px" src="https://cdn.simpleicons.org/vercel/0000000/ffffff" style="padding-right:10px;" />][vercel-link]
-
-<br/>
+[<img align="left" alt="Vercel" width="25px" src="https://cdn.simpleicons.org/vercel/0000000/ffffff" style="padding-right:10px;" />][vercel-link] <br/><br/>
 
 <!--START_SECTION:SHOW_TIMEZONE-->
 <!--END_SECTION:SHOW_TIMEZONE-->
@@ -30,21 +28,16 @@
 <!--START_SECTION:SHOW_EDITORS-->
 <!--END_SECTION:SHOW_EDITORS-->
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+<!--START_SECTION:SHOW_LINES_OF_CODE-->
+<!--END_SECTION:SHOW_LINES_OF_CODE-->
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue)
+<!--START_SECTION:SHOW_TOTAL_CODE_TIME-->
+<!--END_SECTION:SHOW_TOTAL_CODE_TIME-->
 
-**🐱 My GitHub Data** 
+<!--START_SECTION:SHOW_SHORT_INFO-->
+<!--END_SECTION:SHOW_SHORT_INFO-->
 
-> 📦 55.3 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 19 Public Repositories 
- > 
-> 🔑 9 Private Repositories 
- > 
+
 **I'm an Early 🐤** 
 
 ```text
@@ -65,25 +58,6 @@ Saturday                 960 commits         ███░░░░░░░░�
 Sunday                   850 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/New_York
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -96,22 +70,3 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/adam-ridhwan/adam-ridhwan/main/assets/bar_graph.png)
-
-
- Last Updated on 17/04/2024 03:17:53 UTC
-<!--END_SECTION:waka-->
-
-<!--START_SECTION:SHOW_LINES_OF_CODE-->
-<!--END_SECTION:SHOW_LINES_OF_CODE-->
-
-<!--START_SECTION:SHOW_COMMIT-->
-<!--END_SECTION:SHOW_COMMIT-->
-
-<!--START_SECTION:SHOW_DAYS_OF_WEEK-->
-<!--END_SECTION:SHOW_DAYS_OF_WEEK-->
-
-<!--START_SECTION:SHOW_LANGUAGE-->
-<!--END_SECTION:SHOW_LANGUAGE-->
