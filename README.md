@@ -22,5 +22,10 @@
 [<img align="left" alt="Prisma" width="25px" src="https://cdn.simpleicons.org/prisma/0000000/ffffff" style="padding-right:10px;" />][prisma-link]
 [<img align="left" alt="Vercel" width="25px" src="https://cdn.simpleicons.org/vercel/0000000/ffffff" style="padding-right:10px;" />][vercel-link]
 
+<br/>
 
+<!--START_SECTION:SHOW_LINES_OF_CODE-->
+<!--END_SECTION:SHOW_LINES_OF_CODE-->
 
+<!--START_SECTION:SHOW_DAYS_OF_WEEK-->
+<!--END_SECTION:SHOW_DAYS_OF_WEEK-->
