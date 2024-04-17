@@ -22,11 +22,10 @@
 [<img align="left" alt="Prisma" width="25px" src="https://cdn.simpleicons.org/prisma/0000000/ffffff" style="padding-right:10px;" />][prisma-link]
 [<img align="left" alt="Vercel" width="25px" src="https://cdn.simpleicons.org/vercel/0000000/ffffff" style="padding-right:10px;" />][vercel-link] <br/><br/>
 
-<!--START_SECTION:SHOW_TIMEZONE-->
-<!--END_SECTION:SHOW_TIMEZONE-->
 
-<!--START_SECTION:SHOW_EDITORS-->
-<!--END_SECTION:SHOW_EDITORS-->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_LINES_OF_CODE-->
 <!--END_SECTION:SHOW_LINES_OF_CODE-->
@@ -40,5 +39,5 @@
 <!--START_SECTION:SHOW_LANGUAGE-->
 <!--END_SECTION:SHOW_LANGUAGE-->
 
-
-
+<!--START_SECTION:SHOW_EDITORS-->
+<!--END_SECTION:SHOW_EDITORS-->
