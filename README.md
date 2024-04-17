@@ -25,4 +25,77 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.4%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 55.3 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 19 Public Repositories 
+ > 
+> 🔑 9 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1426 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
+🌆 Daytime                4027 commits        █████████████░░░░░░░░░░░░   50.74 % 
+🌃 Evening                2356 commits        ███████░░░░░░░░░░░░░░░░░░   29.68 % 
+🌙 Night                  128 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   699 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
+Tuesday                  1010 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+Wednesday                765 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+Thursday                 1858 commits        ██████░░░░░░░░░░░░░░░░░░░   23.41 % 
+Friday                   1795 commits        ██████░░░░░░░░░░░░░░░░░░░   22.62 % 
+Saturday                 960 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
+Sunday                   850 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/New_York
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               20 repos            ███████████████████░░░░░░   74.07 % 
+C++                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+Dart                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/adam-ridhwan/adam-ridhwan/main/assets/bar_graph.png)
+
+
+ Last Updated on 17/04/2024 03:49:06 UTC
 <!--END_SECTION:waka-->
