@@ -1,0 +1,60 @@
+<svg
+        xmlns="http://www.w3.org/2000/svg"
+        xmlns:xlink="http://www.w3.org/1999/xlink"
+        viewBox="0 0 1080 1080"
+        version="1.1"
+        xml:space="preserve"
+>
+    <use
+            xlink:href="#_Image1"
+            x="112.458"
+            y="229.1"
+            width="867.625"
+            height="669.651"
+            transform="matrix(0.999568,0,0,0.999479,0,0)"
+    />
+    <g transform="matrix(0.116243,0,0,0.473619,-23.7923,-3587.35)">
+        <rect x="3083.23" y="8972.31" width="3500.78" height="135.721" style="fill: #274D83" />
+    </g>
+    <g transform="matrix(0.0900481,0,0,0.473619,101.204,-3534.08)">
+        <rect x="3083.23" y="8972.31" width="3500.78" height="135.721" style="fill: #274D83" />
+    </g>
+    <g transform="matrix(0.0481846,0,0,0.133311,454.599,-550.685)">
+        <rect x="3083.23" y="8972.31" width="3500.78" height="135.721" style="fill: #274D83" />
+    </g>
+    <g transform="matrix(0.17212,-0.0993737,0.446387,0.773164,-4264.21,-6040.13)">
+        <rect x="3083.23" y="8972.31" width="3500.78" height="135.721" style="fill: #274D83" />
+    </g>
+    <g transform="matrix(0.110306,-0.0636855,0.0916929,0.158817,-1037.66,-798.056)">
+        <rect x="3083.23" y="8972.31" width="3500.78" height="135.721" style="fill: #274D83" />
+    </g>
+    <g transform="matrix(0.110306,-0.0636855,0.0916929,0.158817,-1050.22,-812.682)">
+        <rect x="3083.23" y="8972.31" width="3500.78" height="135.721" style="fill: #274D83" />
+    </g>
+    <g transform="matrix(0.110306,-0.0636855,0.0916929,0.158817,-1062.67,-824.113)">
+        <rect x="3083.23" y="8972.31" width="3500.78" height="135.721" style="fill: #274D83" />
+    </g>
+    <g transform="matrix(0.116652,-0.067349,0.0722158,0.125081,-870.022,-471.251)">
+        <rect x="3083.23" y="8972.31" width="3500.78" height="135.721" style="fill: #274D83" />
+    </g>
+    <g transform="matrix(0.12113,-0.0699344,0.0722158,0.125081,-874.027,-449.65)">
+        <rect x="3083.23" y="8972.31" width="3500.78" height="135.721" style="fill: #274D83" />
+    </g>
+    <g transform="matrix(0.129529,-0.0747837,0.0916929,0.158817,-1067.52,-724.985)">
+        <rect x="3083.23" y="8972.31" width="3500.78" height="135.721" style="fill: #274D83" />
+    </g>
+    <g transform="matrix(0.0389201,-0.0224705,0.296775,0.514029,-2065.36,-4228.86)">
+        <rect x="3083.23" y="8972.31" width="3500.78" height="135.721" style="fill: #274D83" />
+    </g>
+    <use xlink:href="#myNewGradient"
+         x="0" y="0"
+         width="1080" height="1080"
+         transform="matrix(1,0,0,1,0,0)"
+    />
+    <defs>
+        <linearGradient id="myNewGradient" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1080" y2="1080">
+            <stop offset="0%" style="stop-color:#ff0;stop-opacity:1" />
+            <stop offset="100%" style="stop-color:#f00;stop-opacity:1" />
+        </linearGradient>
+    </defs>
+</svg>
