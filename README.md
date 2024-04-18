@@ -11,12 +11,11 @@
 [tailwind-link]: https://tailwindcss.com/
 [html-link]: https://html.com/
 [css-link]: https://html.com/](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[zod-link]: https://zod.dev/
 [postgresql-link]: https://www.postgresql.org/
 [mongodb-link]: https://www.mongodb.com/
 [prisma-link]: https://www.prisma.io/
 [vercel-link]: https://vercel.com/
-
-
 
 [<img align="left" alt="Webstorm" width="25px" height="25px" src="/assets/webstorm.svg" />][webstorm-link]
 [<img align="left" alt="Next.js" width="25px" src="https://cdn.simpleicons.org/nextdotjs/0000000/ffffff" />][next.js-link]
@@ -25,10 +24,11 @@
 [<img align="left" alt="HTML" width="25px" height="25px" src="/assets/html.svg" />][html-link]
 [<img align="left" alt="CSS" width="25px" height="25px" src="/assets/css.svg" />][css-link]
 [<img align="left" alt="Tailwind" width="25px" height="25px" src="/assets/tailwind.svg" />][tailwind-link]
+[<img align="left" alt="Zod" width="25px" src="https://cdn.simpleicons.org/zod/3E67B1" />][prisma-link]
 [<img align="left" alt="PostgreSQL" width="25px" height="25px" src="/assets/postgresql.svg" />][postgresql-link]
 [<img align="left" alt="MongoDB" width="15px" height="25px" src="/assets/mongodb.svg" />][mongodb-link]
-[<img align="left" alt="Prisma" width="25px" src="https://cdn.simpleicons.org/prisma/0000000/ffffff" style="padding-right:10px;" />][prisma-link]
-[<img align="left" alt="Vercel" width="25px" src="https://cdn.simpleicons.org/vercel/0000000/ffffff" style="padding-right:10px;" />][vercel-link] <br/><br/>
+[<img align="left" alt="Prisma" width="25px" src="https://cdn.simpleicons.org/prisma/0000000/ffffff" />][prisma-link]
+[<img align="left" alt="Vercel" width="25px" src="https://cdn.simpleicons.org/vercel/0000000/ffffff" />][vercel-link] <br/><br/>
 
 
 <!--START_SECTION:waka-->
