@@ -19,6 +19,7 @@
 [vercel-link]: https://vercel.com/
 
 [<img align="left" alt="Webstorm" width="25px" height="25px" src="/assets/webstorm.svg" />][webstorm-link]
+[<img align="left" alt="GitHub" width="25px" src="https://cdn.simpleicons.org/github/0000000/ffffff" />][next.js-link]
 [<img align="left" alt="Next.js" width="25px" src="https://cdn.simpleicons.org/nextdotjs/0000000/ffffff" />][next.js-link]
 [<img align="left" alt="React" width="25px" height="25px" src="/assets/react.svg" />][react.js-link]
 [<img align="left" alt="TypeScript" width="25px" height="25px" src="/assets/typescript.svg" />][typescript-link]
