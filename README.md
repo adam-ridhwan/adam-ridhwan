@@ -1,6 +1,6 @@
-<h2>Hi there, I'm Adam 👋</h2>
+# Hi there, I'm Adam 👋
 
-🧑🏻‍💻 Software Engineer who loves building things for the web <br/> <br/>
+### 🧑🏻‍💻 Software Engineer who loves building things for the web <br/> <br/>
 
 <h4>🛠️ Languages and Tools</h4>
 
