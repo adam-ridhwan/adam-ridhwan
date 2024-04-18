@@ -5,6 +5,8 @@
 <h4>🛠️ Languages and Tools</h4>
 
 [webstorm-link]: https://www.jetbrains.com/webstorm/
+[github-link]: https://github.com/
+[git-link]: https://git-scm.com/
 [next.js-link]: https://nextjs.org/
 [react.js-link]: https://react.dev/
 [typescript-link]: https://www.typescriptlang.org/
@@ -19,7 +21,9 @@
 [vercel-link]: https://vercel.com/
 
 [<img align="left" alt="Webstorm" width="25px" height="25px" src="/assets/webstorm.svg" />][webstorm-link]
-[<img align="left" alt="GitHub" width="25px" src="https://cdn.simpleicons.org/github/0000000/ffffff" />][next.js-link]
+[<img align="left" alt="GitHub" width="25px" src="https://cdn.simpleicons.org/github/0000000/ffffff" />][github-link]
+[<img align="left" alt="Git" width="25px" src="/assets/git.svg" />][git-link]
+[<img align="left" alt="Vercel" width="25px" src="https://cdn.simpleicons.org/vercel/0000000/ffffff" />][vercel-link]
 [<img align="left" alt="Next.js" width="25px" src="https://cdn.simpleicons.org/nextdotjs/0000000/ffffff" />][next.js-link]
 [<img align="left" alt="React" width="25px" height="25px" src="/assets/react.svg" />][react.js-link]
 [<img align="left" alt="TypeScript" width="25px" height="25px" src="/assets/typescript.svg" />][typescript-link]
@@ -31,7 +35,7 @@
 [<img align="left" alt="PostgreSQL" width="25px" height="25px" src="/assets/postgresql.svg" />][postgresql-link]
 [<img align="left" alt="MongoDB" width="15px" height="25px" src="/assets/mongodb.svg" />][mongodb-link]
 [<img align="left" alt="Prisma" width="25px" src="https://cdn.simpleicons.org/prisma/0000000/ffffff" />][prisma-link]
-[<img align="left" alt="Vercel" width="25px" src="https://cdn.simpleicons.org/vercel/0000000/ffffff" />][vercel-link] <br/><br/>
+<br/><br/>
 
 
 <!--START_SECTION:waka-->
