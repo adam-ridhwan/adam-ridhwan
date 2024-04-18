@@ -13,7 +13,6 @@
 [css-link]: https://developer.mozilla.org/en-US/docs/Web/CSS
 [flutter-link]: https://flutter.dev/
 [dart-link]: https://dart.dev/
-[zod-link]: https://zod.dev/
 [postgresql-link]: https://www.postgresql.org/
 [mongodb-link]: https://www.mongodb.com/
 [prisma-link]: https://www.prisma.io/
@@ -28,7 +27,6 @@
 [<img align="left" alt="Tailwind" width="25px" height="25px" src="/assets/tailwind.svg" />][tailwind-link]
 [<img align="left" alt="Flutter" width="25px" height="25px" src="/assets/flutter.svg" />][flutter-link]
 [<img align="left" alt="Dart" width="25px" height="25px" src="/assets/dart.svg" />][dart-link]
-[<img align="left" alt="Zod" width="25px" height="25px" src="/assets/zod.svg" />][zod-link]
 [<img align="left" alt="PostgreSQL" width="25px" height="25px" src="/assets/postgresql.svg" />][postgresql-link]
 [<img align="left" alt="MongoDB" width="15px" height="25px" src="/assets/mongodb.svg" />][mongodb-link]
 [<img align="left" alt="Prisma" width="25px" src="https://cdn.simpleicons.org/prisma/0000000/ffffff" />][prisma-link]
