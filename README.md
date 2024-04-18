@@ -24,7 +24,7 @@
 [<img align="left" alt="HTML" width="25px" height="25px" src="/assets/html.svg" />][html-link]
 [<img align="left" alt="CSS" width="25px" height="25px" src="/assets/css.svg" />][css-link]
 [<img align="left" alt="Tailwind" width="25px" height="25px" src="/assets/tailwind.svg" />][tailwind-link]
-[<img align="left" alt="Zod" width="25px" src="https://cdn.simpleicons.org/zod/3E67B1" />][zod-link]
+[<img align="left" alt="Zod" width="25px" height="25px" src="/assets/zod.svg" />][zod-link]
 [<img align="left" alt="PostgreSQL" width="25px" height="25px" src="/assets/postgresql.svg" />][postgresql-link]
 [<img align="left" alt="MongoDB" width="15px" height="25px" src="/assets/mongodb.svg" />][mongodb-link]
 [<img align="left" alt="Prisma" width="25px" src="https://cdn.simpleicons.org/prisma/0000000/ffffff" />][prisma-link]
