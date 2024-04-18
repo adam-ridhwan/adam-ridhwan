@@ -10,7 +10,9 @@
 [typescript-link]: https://www.typescriptlang.org/
 [tailwind-link]: https://tailwindcss.com/
 [html-link]: https://html.com/
-[css-link]: https://html.com/](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[css-link]: https://developer.mozilla.org/en-US/docs/Web/CSS
+[flutter-link]: https://flutter.dev/
+[dart-link]: https://dart.dev/
 [zod-link]: https://zod.dev/
 [postgresql-link]: https://www.postgresql.org/
 [mongodb-link]: https://www.mongodb.com/
@@ -24,6 +26,8 @@
 [<img align="left" alt="HTML" width="25px" height="25px" src="/assets/html.svg" />][html-link]
 [<img align="left" alt="CSS" width="25px" height="25px" src="/assets/css.svg" />][css-link]
 [<img align="left" alt="Tailwind" width="25px" height="25px" src="/assets/tailwind.svg" />][tailwind-link]
+[<img align="left" alt="Flutter" width="25px" height="25px" src="/assets/flutter.svg" />][flutter-link]
+[<img align="left" alt="Dart" width="25px" height="25px" src="/assets/dart.svg" />][dart-link]
 [<img align="left" alt="Zod" width="25px" height="25px" src="/assets/zod.svg" />][zod-link]
 [<img align="left" alt="PostgreSQL" width="25px" height="25px" src="/assets/postgresql.svg" />][postgresql-link]
 [<img align="left" alt="MongoDB" width="15px" height="25px" src="/assets/mongodb.svg" />][mongodb-link]
