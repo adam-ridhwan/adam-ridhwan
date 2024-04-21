@@ -2,7 +2,7 @@
 
 ### 🧑🏻‍💻 Software Engineer who loves building things for the web <br/> <br/>
 
-<h4>🛠️ Languages and Tools</h4>
+#### 🛠️ Languages and Tools ####
 
 [webstorm-link]: https://www.jetbrains.com/webstorm/
 [github-link]: https://github.com/
