@@ -2,7 +2,7 @@
 
 ### 🧑🏻‍💻 Software Engineer who loves building things for the web <br/> <br/>
 
-#### 🛠️ Languages and Tools ####
+#### 🛠️ Languages and Tools 
 
 [webstorm-link]: https://www.jetbrains.com/webstorm/
 [github-link]: https://github.com/
@@ -35,6 +35,7 @@
 [<img align="left" alt="PostgreSQL" width="25px" height="25px" src="/assets/postgresql.svg" />][postgresql-link]
 [<img align="left" alt="MongoDB" width="15px" height="25px" src="/assets/mongodb.svg" />][mongodb-link]
 [<img align="left" alt="Prisma" width="25px" src="https://cdn.simpleicons.org/prisma/0000000/ffffff" />][prisma-link]
+
 <br/><br/>
 
 
