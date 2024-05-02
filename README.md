@@ -21,7 +21,7 @@
 [vercel-link]: https://vercel.com/
 
 [<img align="left" alt="Webstorm" width="25px" height="25px" src="/assets/webstorm.svg" />][webstorm-link]
-[<img align="left" alt="GitHub" width="25px" src="/assets/github.svg" />][github-link]
+[<img align="left" alt="GitHub" width="25px" height="25px" src="/assets/github.svg" />][github-link]
 [<img align="left" alt="Git" width="25px" src="/assets/git.svg" />][git-link]
 [<img align="left" alt="Vercel" width="25px" src="https://cdn.simpleicons.org/vercel/0000000/ffffff" />][vercel-link]
 [<img align="left" alt="Next.js" width="25px" height="25px" src="/assets/nextjs.svg" />][next.js-link]
