@@ -1,8 +1,8 @@
-# Hi there, I'm Adam 👋
+<h1>Hi there, I'm Adam 👋</h1>
 
-### 🧑🏻‍💻 Software Engineer who loves building things for the web <br/> <br/>
+<h3>🧑🏻‍💻 Software Engineer who loves building things for the web</h3>
 
-#### 🛠️ Languages and Tools 
+<h4>🛠️ Languages and Tools</h4>
 
 [webstorm-link]: https://www.jetbrains.com/webstorm/
 [github-link]: https://github.com/
