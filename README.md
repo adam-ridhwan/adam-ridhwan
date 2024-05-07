@@ -1,6 +1,9 @@
 <h1>Hi there, I'm Adam 👋</h1>
 
-<h3>🧑🏻‍💻 Software Engineer who loves building things for the web</h3>
+- 🧑🏻‍💻 Modern Software Engineer 
+- 🌐 Love building things for the web
+- 🚀 Next.js advocate
+- 🛡️ Avid TypeScript enthusiast
 
 <h4>🛠️ Languages and Tools</h4>
 
@@ -19,9 +22,6 @@
 [mongodb-link]: https://www.mongodb.com/
 [prisma-link]: https://www.prisma.io/
 [vercel-link]: https://vercel.com/
-
-
-
 
 
 [<img align="left" alt="Webstorm" width="25px" height="25px" src="/assets/webstorm.svg" />][webstorm-link]
