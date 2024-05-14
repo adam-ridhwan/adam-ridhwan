@@ -3,7 +3,7 @@
 - 🧑🏻‍💻 Modern Software Engineer 
 - 🌐 Love building things for the web
 - 🚀 Next.js advocate
-- 🛡️ Avid TypeScript enthusiast
+- 🛡️ TypeScript enthusiast
 
 <h4>🛠️ Languages and Tools</h4>
 
